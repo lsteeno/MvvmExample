@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2017\Projects\MvvmExample\MvvmExample\obj\Debug\MvvmExample.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\MvvmExample\MvvmExample\obj\Debug\Views\ConverterControl.g.cs
+D:\Documents\Visual Studio 2017\Projects\MvvmExample\MvvmExample\obj\Debug\Views\ConvertWindow.g.cs
+D:\Documents\Visual Studio 2017\Projects\MvvmExample\MvvmExample\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2017\Projects\MvvmExample\MvvmExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Visual Studio 2017\Projects\MvvmExample\MvvmExample\obj\Debug\MvvmExample_MarkupCompile.cache
+D:\Documents\Visual Studio 2017\Projects\MvvmExample\MvvmExample\obj\Debug\MvvmExample_MarkupCompile.lref
